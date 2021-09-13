@@ -52,5 +52,5 @@ typedef int32_t UTF32;
 #define END_DECLS 
 #endif
 
-
-
+#define NAME 		"JPEGTOFB"
+#define VERSION 	"dc40b1"
